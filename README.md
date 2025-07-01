@@ -52,7 +52,6 @@ All models are evaluated using ROC-AUC to compare performance between:
 - Supervised learning (trained on labeled data)
 - Unsupervised learning (trained only on normal traffic)
 
-*(Insert ROC Curve image here if desired)*
 
 ---
 
